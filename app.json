@@ -1,9 +1,9 @@
 {
-  "name": "The original Arab Telethon source",
-  "description": "Welcome to the Arab Telethon 8.1v { @iqthon }",
-  "logo": "https://telegra.ph/file/795bd80cbb23748657b4c.jpg",
+  "name": "The original 𝙎𝙊𝙐𝙍𝘾𝙀 𝙎𝙋𝘼𝙍𝙆 source",
+  "description": "Welcome to the 𝙎𝙊𝙐𝙍𝘾𝙀 𝙎𝙋𝘼𝙍𝙆 1.3v { @ZZZ7iZ }",
+  "logo": "https://graph.org/file/03a04c7d151d1a8aea17c.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://github.com/jgk99gto/SBERK",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
